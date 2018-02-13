@@ -1,0 +1,19 @@
+{
+  "name": "hcr-web-guide",
+  "version": "1.0.0",
+  "description": "Learned more about HTML/CSS while also learning about the history of ony of my favorite climbing/camping spots I discovered in 2016.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrooks/hcr-web-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrooks/hcr-web-guide/issues"
+  },
+  "homepage": "https://github.com/TheBrooks/hcr-web-guide#readme"
+}
